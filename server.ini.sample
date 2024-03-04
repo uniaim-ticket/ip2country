@@ -1,0 +1,4 @@
+[global]
+server.socket_host = "127.0.0.1"
+server.socket_port = 5400
+iptoasn-country-ipv4.file = "iptoasn-country-ipv4.csv"
